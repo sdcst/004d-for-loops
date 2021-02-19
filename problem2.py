@@ -16,13 +16,24 @@ A factorial is defined as:
 3! = 1 * 2 * 3
 3! = 6
 
+Note that a factorial can only accept an integer as an input number.  
+Your program should also include some "input validation". This means that
+the program will only determine the factorial IF the input is a positive
+integer.  If the number is not a positive integer, it will display 
+"Invalid input"
+
 inputs:
 int number
 
 outputs:
 "xx! is yy" where xx is the integer entered and yy is the calculated answer
+Invalid input
 
 example:
 Enter a number: 4
 4! is 24
+
+example:
+Enter a number: -4
+Invalid input
 """
