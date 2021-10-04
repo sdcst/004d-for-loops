@@ -9,7 +9,10 @@ the current point
 
 players = ("Guile", "Cammy", "Ryu", "Ken", "Chun-Li")
 
-# here, i is the indexing variable.  All the tuple members will take turns being i
+"""
+here, i is the indexing variable. 
+All the tuple members will take turns being i
+"""
 for i in players:
     # this will check if the current tuple member is Ryu and then break out of the loop if it is
     if i == "Ryu":

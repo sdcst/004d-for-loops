@@ -15,8 +15,11 @@ you can use continue. (see example2b.py)
 
 players = ("Guile", "Cammy", "Ryu", "Ken", "Chun-Li")
 
-# here, i is the indexing variable.  All the tuple members will take turns being i
 for i in players:
+    """ 
+    here, i is the indexing variable.  
+    All the tuple members will take turns being i
+    """
     print("===")
     print( i + " is going to the mall")
     print("---")

@@ -12,6 +12,13 @@ For loops are useful when you want to repeat a section of code a set number of
 times.  The number of times can be determined by a fixed number or by a collection
 of data.
 
+For loops are one of the most useful structures in programming, as it can be used
+to cycle through large amounts of data, processing each entry until you get to the
+end.
+
+We can also use code that allows us to treat for loops like a while loop, and
+vice versa!
+
 ### Using a TUPLE
 We are going to mention a new variable type here: the TUPLE
 example1.py
