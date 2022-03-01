@@ -5,6 +5,14 @@
 Ask the user to enter an integer.
 Print the multiplication tables up to 12 for that number
 using a for loop instead of a while loop.
+hint:
+using a print statement with the optional parameter:
+,end="" 
+will help you print things on the same line.
+
+Example:
+print("Hello", end="")
+print("This is on the same line")
 (2 points)
 
 inputs:
