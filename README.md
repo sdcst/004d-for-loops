@@ -42,11 +42,11 @@ If for some reason you need to execute no commands inside a for loop,
 you need to use the command "pass"
 
 example:
-
+```
 for i in range(3,5):
     pass
 print("All done!")
-
+```
 ### XX Tasks
 
 ##### Task 1
